@@ -41,7 +41,7 @@ O que caracteriza um teste de integração:
 - Verifica a interação entre componentes ou uma funcionalidade completa, separado da UI x
 - Não pode envolver banco de dados ou APIs externas
 
-Características dos testes de e2e:
+Características dos testes e2e:
 
 - Lentos x
 - Pequenos

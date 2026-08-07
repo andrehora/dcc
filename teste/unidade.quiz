@@ -11,12 +11,6 @@ Características dos testes de unidade:
 - Lentos
 - Estáveis x
 
-Por que a "fixture" de um teste é importante para garantir que um teste seja repetível:
-
-- Porque ela documenta o código-fonte automaticamente
-- Porque ela impede que o teste seja executado mais de uma vez
-- Porque ela define um estado conhecido e controlado x
-
 O método de setUp é executado quantas vezes durante a execução de uma classe de teste:
 
 - Uma única vez, antes de todos os testes da classe

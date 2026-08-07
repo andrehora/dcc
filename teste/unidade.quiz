@@ -18,7 +18,6 @@ O método de setUp é executado quantas vezes durante a execução de uma classe
 - Uma vez ao final da execução de todos os testes
 
 Quantas vezes o método setUp será executado? https://cdn.jsdelivr.net/gh/andrehora/dcc/teste/figs/setup.png:
-- 0
 - 1
 - 2 x
 - 3

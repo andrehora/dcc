@@ -1,0 +1,53 @@
+Selecione exemplos de métricas de qualidade:
+- Número de bugs em produção x
+- Tempo médio para correção de bugs x
+- Quantidade de testes de unidade
+
+Sobre métricas dinâmicas:
+- São coletadas de artefatos do sistema
+- São coletadas por medição durante a execução do sistema x
+- Possui relacionamento direto com qualidade de produto x
+
+Sobre métricas estáticas:
+- Ajudam a avaliar a eficiência ou confiança de um sistema
+- São coletadas de artefatos do sistema, tais como código e documentação x
+- Possui relacionamento indireto com qualidade de produto x
+
+Exemplos de métricas básicas de código:
+- LOC x
+- Fan-in x
+- LCOM
+- Complexidade Ciclomática x
+
+Sobre a Complexidade Cognitiva:
+- Foca em testabilidade, mas possui limitações
+- Leva em consideração aninhamento e quebra de fluxo x
+- Foca em manutenibilidade para humanos x
+
+Exemplos de métricas OO (CK):
+- LOC
+- DIT x
+- NOC x
+- CBO x
+
+Número de níveis em que uma classe herda métodos e atributos:
+- Número de Filhos (NOC)
+- Acoplamento entre Objetos (CBO)
+- Profundidade de Herança (DIT) x
+
+Número de classes chamadas por uma classe:
+- Acoplamento entre Objetos (CBO) x
+- Falta de Coesão em Métodos (LCOM)
+- Resposta para Classe (RFC)
+
+CBO mensura:
+- Coesão
+- Acoplamento x
+- Complexidade
+- Testabilidade
+
+LCOM mensura:
+- Coesão x
+- Acoplamento
+- Manutenibilidade
+- Testabilidade

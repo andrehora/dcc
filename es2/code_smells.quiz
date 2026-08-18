@@ -1,0 +1,28 @@
+Características dos code smells:
+- Código que talvez precise ser refatorado x
+- Decisão de refatoração é imediata e objetiva
+- Indicadores de código de baixa qualidade x
+- Código difícil de manter, entender, modificar e/ou reusar x
+
+Exemplos de code smells:
+- Método sem teste
+- Código duplicado x
+- Métodos longos x
+- Classes de dados x
+
+Sobre código duplicado, assinale a alternativa incorreta:
+- Código duplicado aumenta o esforço de manutenção
+- Código duplicado dificulta entendimento e reúso, e aumenta complexidade
+- Existem três tipos de duplicação: tipo 1, tipo 2 e tipo 3 x
+
+Definição de duplicação do tipo 4:
+- Mesmo código, com diferenças apenas em comentários e espaços
+- Permite variáveis podem ter nomes diferentes
+- Permite pequenas mudanças em comandos
+- Semanticamente equivalentes, mas com sintaxe bem diferente x
+
+Problemas associados a classes grandes:
+- Muitas responsabilidades x
+- Alta coesão
+- Difícil de reusar x
+- Difícil de testar x

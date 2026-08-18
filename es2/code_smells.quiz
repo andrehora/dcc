@@ -13,7 +13,7 @@ Exemplos de code smells:
 Sobre código duplicado, assinale a alternativa incorreta:
 - Código duplicado aumenta o esforço de manutenção
 - Código duplicado dificulta entendimento e reúso, e aumenta complexidade
-- Existem três tipos de duplicação: tipo 1, tipo 2 e tipo 3 x
+- Existem três tipos de duplicação x
 
 Definição de duplicação do tipo 4:
 - Mesmo código, com diferenças apenas em comentários e espaços

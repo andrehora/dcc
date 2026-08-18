@@ -1,0 +1,41 @@
+Sobre os testes de integração:
+- Verificam automaticamente pequenas unidades do código
+- Verificam a interação entre componentes x
+- Simulam o uso do sistema por usuários
+
+Características dos testes de integração:
+- Podem envolver a comunicação com serviços externos x
+- São mais lentos que os testes de unidade x
+- Roda separado da interface de usuário x
+- São mais caros que os testes e2e
+
+Características dos testes e2e:
+- Simulam o uso do sistema por usuários x
+- São normalmente realizados na UI do sistema x
+- Trata o sistema como caixa-branca
+- Mais lentos, mais flaky, mais caros e menos frequentes x
+
+Exemplos de ferramentas focadas em testes de unidade:
+- JUnit x
+- Cypress
+- Pytest x
+
+Exemplos de ferramentas focadas em testes e2e:
+- Selenium x
+- Playwright x
+- Pytest
+
+Qual o tipo de teste? https://cdn.jsdelivr.net/gh/andrehora/dcc/teste/figs/integracao.png:
+- Unidade
+- Integração x
+- e2e
+
+Qual o tipo de teste? https://cdn.jsdelivr.net/gh/andrehora/dcc/teste/figs/unidade.png:
+- Unidade x
+- Integração
+- e2e
+
+Qual o tipo de teste? https://cdn.jsdelivr.net/gh/andrehora/dcc/teste/figs/e2e.png:
+- Unidade
+- Integração
+- e2e x

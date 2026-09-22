@@ -1,0 +1,51 @@
+Quais são as principais desvantagens dos testes manuais:
+
+- São rápidos, mas caros
+- São baratos, mas difíceis de automatizar
+- São lentos, caros e suscetíveis a falhas x
+
+Segundo o livro "Working Effectively with Legacy Code", como é definido "legacy code":
+
+- Código legado é código escrito em linguagens antigas
+- Código legado é código que nunca foi documentado
+- Código legado é simplesmente código sem testes x
+
+Benefícios dos testes automatizados:
+
+- Elimina a necessidade de revisão de código
+- Detecta erros mais cedo no ciclo de desenvolvimento x
+- Torna o sistema mais rápido em produção
+- Suporte à capacidade de mudança x
+
+De acordo com a diretriz apresentada pela Google, qual é a proporção recomendada entre os tipos de teste:
+
+- 50% unidade, 30% integração, 20% e2e
+- 80% unidade, 15% integração, 5% e2e x
+- 33% unidade, 33% integração, 33% e2e
+
+Características dos testes de unidade:
+
+- São lentos de executar
+- Podem acessar APIs externas
+- São rápidos de executar x
+- São estáveis x
+
+O que caracteriza um teste de integração:
+
+- Simula o uso do sistema inteiramente pela interface do usuário
+- Verifica a interação entre componentes ou uma funcionalidade completa, separado da UI x
+- Não pode envolver banco de dados ou APIs externas
+
+Características dos testes e2e:
+
+- Lentos x
+- Pequenos
+- Realistas x
+- Frágeis x
+
+Por que os testes e2e são considerados frágeis:
+
+- Pois não utilizam frameworks de teste
+- Pois são executados com menor frequência que os demais
+- Pois podem ser mais facilmente impactados por alterações UI x
+- Pois não podem ser automatizados
